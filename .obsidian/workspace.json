@@ -1,0 +1,502 @@
+{
+  "main": {
+    "id": "2e1fd2e999022306",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4157354d356aaf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d4c10980fc1be72",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "LYT Kit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"LYT Kit.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":35.0145285935085}"
+                },
+                {
+                  "title": "We've already discovered aliens...we just call them bees",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/We've already discovered aliens...we just call them bees.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The big differences between efforts and projects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/The big differences between efforts and projects.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "sound sensory sensitivity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/sound sensory sensitivity.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "LOL",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/LOL.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "How ideas and efforts play nicely together",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/How ideas and efforts play nicely together.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "English Language MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/English Language MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elden Ring",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Elden Ring.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Albert Einstein",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Albert Einstein.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "+ About Encounters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/+ About Encounters.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "+ About Atlas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/+ About Atlas.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Inbox",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Inbox.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "LYT Space (kit)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/LYT Space (kit).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Meta PKM",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Meta PKM.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Virtues (starter)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/My Virtues (starter).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Outbox",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Outbox.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "LYT Space (kit)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/LYT Space (kit).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Life Map",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Life Map.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Newsletter MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/My Newsletter MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Life Map",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Life Map.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2019-01-25 Resiliency Routines",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2019-01-25 Resiliency Routines.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2020-06-01",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2020-06-01.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2015-02-20 Habit Concepts and Theory",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2015-02-20 Habit Concepts and Theory.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "+ About Calendar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/+ About Calendar.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The forest entrance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/The forest entrance.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":24},\"to\":{\"line\":2,\"ch\":24}},\"scroll\":0}"
+                },
+                {
+                  "title": "+ Start Here",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/+ Start Here.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "+ About Cards",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/+ About Cards.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "People MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/People MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Places MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Places MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":15},\"to\":{\"line\":1,\"ch\":15}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2022-11-11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2022-11-11.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "license",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50a064198c878664",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "31b3e2576b134863",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea89fdbc5439f479",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fd5ddab0d74cf4f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Home.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5168584698559424,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "1dc0cb1cebc39098",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "cc261747cbab30f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6321f478b28fa615",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5028076171875
+  },
+  "active": "77966b04a7f238ed",
+  "lastOpenFiles": [
+    "LYT Kit.md",
+    "+ Encounters/We've already discovered aliens...we just call them bees.md",
+    "+ Encounters/The big differences between efforts and projects.md",
+    "+ Encounters/sound sensory sensitivity.md",
+    "+ Encounters/LOL.md",
+    "+ Encounters/How ideas and efforts play nicely together.md",
+    "+ Encounters/English Language MOC.md",
+    "+ Encounters/Elden Ring.md",
+    "+ Encounters/Albert Einstein.md",
+    "+ Encounters/+ About Encounters.md"
+  ]
+}
